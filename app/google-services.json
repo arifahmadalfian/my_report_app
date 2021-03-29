@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004195432542",
+    "project_id": "my-report-app-fe5bb",
+    "storage_bucket": "my-report-app-fe5bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004195432542:android:1a874d78a454a9035a4ccf",
+        "android_client_info": {
+          "package_name": "com.arifahmadalfian.myreportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004195432542-g0vtc29cgs6q46p83f3n7j3lp9k9uakb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJMbj7n-yOLmE1uW1p0MMn9wk0uKlSc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004195432542-g0vtc29cgs6q46p83f3n7j3lp9k9uakb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
